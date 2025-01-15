@@ -1,0 +1,6 @@
+[submodule "Task_1/quizard"]
+	path = Task_1/quizard
+	url = https://github.com/Noorain099/quizard.git
+[submodule "Task_2/quote_generator"]
+	path = Task_2/quote_generator
+	url = https://github.com/Noorain099/quote_generator.git
